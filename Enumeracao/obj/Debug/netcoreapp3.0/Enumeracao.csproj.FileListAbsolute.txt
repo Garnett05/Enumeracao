@@ -1,0 +1,11 @@
+D:\Documentos\C#\Enumeracao\Enumeracao\bin\Debug\netcoreapp3.0\Enumeracao.exe
+D:\Documentos\C#\Enumeracao\Enumeracao\bin\Debug\netcoreapp3.0\Enumeracao.deps.json
+D:\Documentos\C#\Enumeracao\Enumeracao\bin\Debug\netcoreapp3.0\Enumeracao.runtimeconfig.json
+D:\Documentos\C#\Enumeracao\Enumeracao\bin\Debug\netcoreapp3.0\Enumeracao.runtimeconfig.dev.json
+D:\Documentos\C#\Enumeracao\Enumeracao\bin\Debug\netcoreapp3.0\Enumeracao.dll
+D:\Documentos\C#\Enumeracao\Enumeracao\bin\Debug\netcoreapp3.0\Enumeracao.pdb
+D:\Documentos\C#\Enumeracao\Enumeracao\obj\Debug\netcoreapp3.0\Enumeracao.csprojAssemblyReference.cache
+D:\Documentos\C#\Enumeracao\Enumeracao\obj\Debug\netcoreapp3.0\Enumeracao.AssemblyInfoInputs.cache
+D:\Documentos\C#\Enumeracao\Enumeracao\obj\Debug\netcoreapp3.0\Enumeracao.AssemblyInfo.cs
+D:\Documentos\C#\Enumeracao\Enumeracao\obj\Debug\netcoreapp3.0\Enumeracao.dll
+D:\Documentos\C#\Enumeracao\Enumeracao\obj\Debug\netcoreapp3.0\Enumeracao.pdb
